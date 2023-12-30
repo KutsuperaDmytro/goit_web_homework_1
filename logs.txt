@@ -1,0 +1,5 @@
+[18:12:32] Contact John Doe has been added.
+[18:12:32] Contact Jane Doe has been added.
+[18:12:32] Contact John Doe has been edited!
+[18:12:32] Addressbook has been saved!
+[18:12:32] Addressbook has been loaded!
